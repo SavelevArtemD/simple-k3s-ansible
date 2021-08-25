@@ -1,0 +1,15 @@
+# Specify filepatterns you want git to ignore.
+*.log
+*.env
+*.ignore
+*.pem
+*.srl
+*.cnf
+*.crt
+*.key
+.idea
+.vscode
+.dev_tools
+
+certs/**
+hosts.ini
